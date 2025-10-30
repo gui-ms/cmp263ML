@@ -9,8 +9,13 @@ Repositório contendo arquivos e códigos para o trabalho final da disciplina de
 - Fazer upload do dataset completo;
 
 - Escolher métodos de treino que façam sentido para as características deste dataset;
+  - De acordo com artigos referenciados, podemos usar KNN, SVM, Random Forests para treino;
+  - Algumas variáveis categóricas podem ser tratadas usando One Hot Encoding;
+  - De acordo com artigos referenciados, podemos utilizar Select Percentile para seleção de features;
 
 - Escolher métricas de avaliação;
+  - Para ciber ataques é importante verificar o número de falsos positivos;
+  - Podemos manter as métricas comuns como Recall, Acurácia, F1, e Precisão;
 
 - Fazer a Análise Exploratória de Dados e fazer as devidas alterações (evitando Data Leakage!)
 
