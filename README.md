@@ -28,3 +28,9 @@ Repositório contendo arquivos e códigos para o trabalho final da disciplina de
 Adicionando link do template do artigo:
 
 https://www.overleaf.com/4136642185hjcghhqdfkdr#5fe090
+
+Sugestão de forma de trabalho:
+
+Focar o código no colab (lembre-se de clicar na opção de salvar no github!!)
+Artigo no overleaf;
+Após concluido, colocar no git o artigo.
